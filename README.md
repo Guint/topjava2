@@ -1,3 +1,7 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1f9504e4f58e4dd78202602a46d72fcc)](https://app.codacy.com/app/javawebinar/topjava)
+[![Build Status](https://travis-ci.org/JavaWebinar/topjava.svg?branch=master)](https://travis-ci.org/JavaWebinar/topjava)
+[![VersionEye](https://www.versioneye.com/user/projects/5a14435c0fb24f2a6d408cde/badge.svg)](https://www.versioneye.com/user/projects/5a14435c0fb24f2a6d408cde)
+
 Java Enterprise Online Project
 ===============================
 
@@ -52,7 +56,7 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
 - Поддержка HSQLDB
 - Домашнее задание (HW4 + Optional)
 
-#### 29.03: 5-е занятие
+#### 27.03: 5-е занятие
 - Разбор вопросов
 - Разбор домашнего задания HW4 + Optional
 - Транзакции
@@ -62,7 +66,9 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
 - Spring кэш
 - Домашнее задание (HW5 + Optional)
 
-#### 05.04: 6-е занятие
+#### Большое ДЗ + выпускной проект + подтягиваем "хвосты".
+
+#### 10.04: 6-е занятие
 - Разбор домашнего задания HW5 + Optional
 - Кэш Hibernate
 - Spring Web
@@ -73,7 +79,7 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
 - Spring Internationalization
 - Домашнее задание (HW6 + Optional)
 
-#### Перерыв. Делаем большое ДЗ и подтягиваем "хвосты".
+#### Большое ДЗ + выпускной проект + подтягиваем "хвосты".
 
 #### 19.04: 7-е занятие
 - Разбор домашнего задания HW6 + Optional
